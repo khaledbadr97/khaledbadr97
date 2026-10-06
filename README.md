@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Khaled</h1>
-<h3 align="center">I'm a Flutter Developer</h3>
+<h3 align="center">I'm a Software Engineer</h3>
 
 - 💬 Ask me about **Anything**
 
 - 📫 you can reach me an email at **kmbadr97@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GuPeZSAtVjmhlkifigN3dcsExaaousKv/view?usp=sharing](https://drive.google.com/file/d/1GuPeZSAtVjmhlkifigN3dcsExaaousKv/view?usp=sharing)
 
 - ⚡ Fun fact **I love to play video games**
 
